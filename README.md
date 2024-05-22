@@ -17,6 +17,7 @@ pip install -r chat-bot-requirement.txt
   python app_qwen.py
   ```
 ## webui界面示例
+
 <div align="center">
 <img src="./assets/chat_bot1.gif" width="750" >
 </div>
